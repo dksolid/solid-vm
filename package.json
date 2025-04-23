@@ -1,13 +1,13 @@
 {
-  "name": "@dksolid/any",
+  "name": "@dksolid/solid-vm",
   "author": "dksolid",
   "license": "MIT",
   "version": "0.0.1",
-  "description": "",
+  "description": "Library for connecting Solid.js View Models to components",
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dksolid/any"
+    "url": "git+https://github.com/dksolid/solid-vm"
   },
   "scripts": {
     "prepare": "husky",
